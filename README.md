@@ -9,7 +9,7 @@
 
 저는 윈도우 환경에서 실행했습니다.
 
-이 예제는 사이트에서 참조했습니다. <br>
+이 예제는 아래 사이트에서 참조했습니다. <br>
 url : https://nuggy875.tistory.com/14 <br>
 url : https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch <br>
 
